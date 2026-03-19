@@ -1,0 +1,18 @@
+package Week3and4;
+import java.util.Scanner;
+
+public class Level2prog3 {
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int num,i;
+        System.out.println("Enter a number:");
+        num=sc.nextInt();
+        for(i=6;i<=9;i++)
+        {
+            System.out.println(num+"*"+i+"="+(num*i));
+        }
+
+    }
+    
+}
