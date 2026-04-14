@@ -12,6 +12,10 @@ Week 5 and 6 - Array concepts
 Level 1 Practice Programs - 4 done
 Level 2 Practice Programs - 4 done
 Level 3 Practice Programs - 1 done
+Week 7 and 8
+Level 1 Practice Problems - 4 done
+Level 2 Practice Problems - 2 done
+Level 3 Practice Problems - 1 done
 Language
 Java
 
